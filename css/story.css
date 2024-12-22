@@ -3,6 +3,7 @@
     flex-direction: column;
     align-content: center;
     text-align: center;
+    gap: 1em;
 }
 
 h1{
