@@ -1,0 +1,26 @@
+
+@media (min-width: 1024px) {
+    img{
+        display: block;
+        width: 30%;
+        height: auto;
+        margin: auto;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+    img{
+        display: block;
+        width: 40%;
+        height: auto;
+        margin: auto;
+    }
+}
+@media (min-width: 1440px) {
+    img{
+        display: block;
+        width: 40%;
+        height: auto;
+        margin: auto;
+    }
+}
