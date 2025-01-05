@@ -1,14 +1,16 @@
-.Main{
+body{
     background-image: url(../Image/Dark\ Forest.jpg);
     background-size: cover;
     padding: 1em;
 
+}
+
+.Main{
     display: flex;
     flex-direction: column;
     align-content: center;
     text-align: center;
 }
-
 h1{
     color: aqua;
 }
