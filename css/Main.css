@@ -2,7 +2,6 @@
     background-image: url(../Image/Dark\ Forest.jpg);
     background-size: cover;
     padding: 1em;
-    height: 150vh;
 
     display: flex;
     flex-direction: column;
