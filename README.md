@@ -1,2 +1,2 @@
- https://sebastianrybar.github.io/GameBookHunter/
- # GameBookHunter
+[Odkaz na web] (https://sebastianrybar.github.io/GameBookHunter/)
+
