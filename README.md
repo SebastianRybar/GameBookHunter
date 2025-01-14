@@ -1,5 +1,5 @@
 # Můj gamebook
 
 
- [Link na živý web](https://sebastianrybar.github.io/GameBookHunter/)
+ [Link na web](https://sebastianrybar.github.io/GameBookHunter/)
 
